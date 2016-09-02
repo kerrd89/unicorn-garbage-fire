@@ -72,17 +72,17 @@ header h1 {
   width: 50px;
 }
 
-.navigation {
+nav {
   float: right;
   padding-top: 15px;
 }
 
-.navigation li {
+nav li {
   display: inline-block;
   margin: 15px 10px 0;
 }
 
-.navigation {
+nav a {
   color: pink;
   font-size: 110%;
   text-decoration: none;
